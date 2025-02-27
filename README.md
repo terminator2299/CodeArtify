@@ -1,7 +1,7 @@
-# AI-Powered SaaS Platform 🚀
+# AI-Powered Platform 🚀
 
 ## Overview
-An AI-powered SaaS platform that enables users to chat, generate images, videos, music, and more. This platform leverages state-of-the-art AI models to provide seamless content creation and interaction.
+An AI-powered platform that enables users to chat, generate images, videos, music, and more. This platform leverages state-of-the-art AI models to provide seamless content creation and interaction.
 
 ## Features
 - **AI Chat**: Engage in human-like conversations with an advanced AI chatbot.
